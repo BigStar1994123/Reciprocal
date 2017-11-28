@@ -1,0 +1,15 @@
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\bin\Debug\TestTimer.exe.config
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\bin\Debug\TestTimer.exe
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\bin\Debug\TestTimer.pdb
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\App.g.cs
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer_MarkupCompile.cache
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer_MarkupCompile.lref
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\MainWindow.baml
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.g.resources
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.Properties.Resources.resources
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.csproj.GenerateResource.Cache
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.exe
+C:\Users\Patrick\source\repos\TestTimer\TestTimer\obj\Debug\TestTimer.pdb
